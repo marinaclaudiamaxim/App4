@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">App4</string>
+    <string name="login">Login</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="min_sdk_17">min sdk 17</string>
+    <string name="attempts">Attempts</string>
+    <string name="_5">5</string>
+    <string name="welcome_to_iasi">Welcome to Iasi!</string>
+    <string name="people">People</string>
+    <string name="people_database">People DataBase</string>
+    <string name="surname">Surname:</string>
+    <string name="name">Name:</string>
+    <string name="age">Age:</string>
+    <string name="sex">Sex:</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="add_data">Add Data</string>
+    <string name="viewdb">ViewDB</string>
+    <string name="update">Update</string>
+    <string name="id">Id</string>
+    <string name="delete">Delete</string>
+    <string name="city_description">City Description</string>
+    <string name="iasi">Iasi</string>
+    <string name="exit">Exit</string>
+    <string name="start">start</string>
+    <string name="play">play</string>
+    <string name="stop">stop</string>
+    <string name="pause">Pause</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="contacts">Contacts</string>
+    <string name="home_to_the_oldest_romanian_university_and_to_the_first_engineering_school_ia_i_is_one_of_the_most_important_education_and_research_centres_of_the_country_known_as_the_cultural_capital_of_romania_ia_i_is_a_symbol_in_romanian_history_the_historian_nicolae_iorga_said_quot_there_should_be_no_romanian_who_does_not_know_of_it_quot">Home to the oldest Romanian university and to the first engineering school, Iași is one of the most important education and research centres of the country. Known as The Cultural Capital of Romania, Iași is a symbol in Romanian history. The historian Nicolae Iorga said \"There should be no Romanian who does not know of it\"\'</string>
+</resources>
