@@ -82,6 +82,7 @@ public  class people extends AppCompatActivity {
         builder.setTitle( title );
         builder.setMessage( Message );
         builder.show();
+
     }
 
     public void updateData(){
